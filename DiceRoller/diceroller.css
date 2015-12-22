@@ -1,0 +1,36 @@
+h1 {
+    margin-left:20px;
+    font-family:Verdana;
+}
+
+p {
+    margin-left:20px;
+    font-family:Verdana;
+}
+
+button {
+    position:absolute;
+    height:23px;
+}
+
+#roll {
+    margin-left:5px;
+    width:40px;
+    text-align:center;
+}
+
+#clear {
+    margin-left:50px;
+    width:54px;
+    text-align:center;
+}
+
+img {
+    position:absolute;
+}
+
+span {
+    margin-left:20px;
+    font-family:Verdana;
+    display:inline;
+}
