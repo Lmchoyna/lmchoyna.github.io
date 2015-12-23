@@ -1,3 +1,5 @@
+/*Hopefully this code isn't written horribly*/
+
 $(document).ready(function() {
     $('#roll').click(function() {
         var val = document.getElementById("numberofsides");

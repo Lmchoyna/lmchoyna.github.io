@@ -1,3 +1,5 @@
+/*Horribly Written Code*/
+
 h1 {
     font-family:Verdana;
 }
@@ -15,12 +17,14 @@ button {
     margin-left:5px;
     width:40px;
     text-align:center;
+    margin-right:10%;
 }
 
 #clear {
     margin-left:50px;
     width:54px;
     text-align:center;
+    margin-right:10%;
 }
 
 img {
@@ -38,3 +42,34 @@ span {
     margin:auto;
     border-radius:20px;
 }
+
+ul {
+    text-align:center;
+    margin:auto;
+}
+
+#icantthinkofanid {
+    margin-right:10%;
+}
+
+
+#footer {
+    background-color:#EEEEEE;
+    position:absolute;
+    bottom:0px;
+    width:100%;
+    border-radius:20px;
+}
+
+#name {
+    color:#AAAAAA;
+    font-family:Verdana;
+    margin-left:1%;
+}
+
+#email {
+    color:#AAAAAA;
+    float:right;
+    margin-right:1%;
+}
+
