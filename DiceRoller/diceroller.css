@@ -1,10 +1,8 @@
 h1 {
-    margin-left:20px;
     font-family:Verdana;
 }
 
 p {
-    margin-left:20px;
     font-family:Verdana;
 }
 
@@ -30,7 +28,13 @@ img {
 }
 
 span {
-    margin-left:20px;
     font-family:Verdana;
     display:inline;
+}
+
+#header {
+    background-color:#EEEEEE;
+    text-align:center;
+    margin:auto;
+    border-radius:20px;
 }
