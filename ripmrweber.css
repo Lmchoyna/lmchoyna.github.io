@@ -23,5 +23,5 @@ div {
     62% {color:#FF8C1A; transform:rotate(deg); top:60%; left:30%}
     75% {color:#FF1A8C; transform:rotate(deg); top:45%; left:15%}
     87% {color:#CC00CC; transform:rotate(deg); top:30%; left:30%}
-    100% {top:15%; left:45%; color:#4DD2FF; transform:rotate(1800deg)}
+    100% {top:15%; left:45%; color:#4DD2FF; transform:rotate(3600deg)}
 }
