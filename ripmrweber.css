@@ -1,0 +1,27 @@
+body {
+    background-color:orange;
+}
+
+div {
+    color:#4DD2FF;
+    font-size:100px;
+    font-family:Verdana;
+    top:20%;
+    left:20%;
+    position:absolute;
+    animation:rainbow 2s infinite;
+    margin-left:0px;
+    margin-right:0px;
+}
+
+@keyframes rainbow {
+    0% {top:15%; left:45%; color:#4DD2FF; transform:rotate(deg)}
+    12% {color:#007399; transform:rotate(deg); top:30%; left:60%}
+    25% {color:#00E68A; transform:rotate(deg); top:45%; left:75%}
+    37% {color:#55FF00; transform:rotate(deg); top:60%; left:60%}
+    50% {color:#FFFF00; transform:rotate(deg); top:75%; left:45%}
+    62% {color:#FF8C1A; transform:rotate(deg); top:60%; left:30%}
+    75% {color:#FF1A8C; transform:rotate(deg); top:45%; left:15%}
+    87% {color:#CC00CC; transform:rotate(deg); top:30%; left:30%}
+    100% {top:15%; left:45%; color:#4DD2FF; transform:rotate(1800deg)}
+}
