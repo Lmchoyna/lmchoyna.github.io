@@ -2,7 +2,7 @@ body {
     background-color:orange;
 }
 
-div {
+#1 {
     color:#4DD2FF;
     font-size:100px;
     font-family:Verdana;
@@ -26,14 +26,41 @@ div {
     100% {top:15%; left:45%; color:#4DD2FF; transform:rotate(3600deg)}
 }
 
-#1 {
+#2 {
+    color:#4DD2FF;
+    font-size:100px;
+    font-family:Verdana;
+    top:20%;
+    left:20%;
+    position:absolute;
+    animation:rainbow 2s infinite;
+    margin-left:0px;
+    margin-right:0px;
     animation-delay:0.5s;
 }
 
-#2 {
+#3 {
+    color:#4DD2FF;
+    font-size:100px;
+    font-family:Verdana;
+    top:20%;
+    left:20%;
+    position:absolute;
+    animation:rainbow 2s infinite;
+    margin-left:0px;
+    margin-right:0px;
     animation-delay:1s;
 }
 
-#3 {
+#4 {
+    color:#4DD2FF;
+    font-size:100px;
+    font-family:Verdana;
+    top:20%;
+    left:20%;
+    position:absolute;
+    animation:rainbow 2s infinite;
+    margin-left:0px;
+    margin-right:0px;
     animation-delay:1.5s;
 }
