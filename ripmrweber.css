@@ -25,3 +25,15 @@ div {
     87% {color:#CC00CC; transform:rotate(deg); top:30%; left:30%}
     100% {top:15%; left:45%; color:#4DD2FF; transform:rotate(3600deg)}
 }
+
+#1 {
+    animation-delay:0.5s;
+}
+
+#2 {
+    animation-delay:1s;
+}
+
+#3 {
+    animation-delay:1.5s;
+}
